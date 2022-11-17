@@ -1,0 +1,14 @@
+.header {
+  background-color: #1876d2;
+  padding: 2em 1em;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.header nav > * {
+  background-color: #1876d2;
+} 
+
+.header nav > a:active {
+  text-decoration: underline;
+} 

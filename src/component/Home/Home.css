@@ -1,0 +1,19 @@
+.order {
+  display: flex;
+  flex-direction: row;
+}
+
+.orderTitle {
+  font-weight: bold;
+  border-top: 2px solid #b8b8b8;
+  border-bottom: 2px solid #b8b8b8;
+}
+
+.orderDetails {
+  border-bottom: 2px solid #f3f3f4;
+}
+
+.order > div {
+  width: 20%;
+  padding: 10px;
+}
